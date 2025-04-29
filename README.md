@@ -53,4 +53,4 @@ function reconstruct_path(current):
     return path
 ```
 
-(/images/screenshot.png)
+![alt text](https://github.com/ndeskaj/a_star_algorithm/blob/main/images/screenshot.png)
